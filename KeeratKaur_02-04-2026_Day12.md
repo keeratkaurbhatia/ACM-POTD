@@ -41,5 +41,5 @@ public:
 };
 
 ```
-![Alt Text](2ndApril.png)
+![LeetCode](Screenshot_2026-04-02-23-51-23-356_com.android.chrome.jpg)
 
